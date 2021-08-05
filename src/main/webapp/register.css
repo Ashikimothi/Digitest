@@ -1,0 +1,109 @@
+@charset "ISO-8859-1";
+
+body{
+	background-image: url("https://cdn.hovia.com/app/uploads/dusty-pink-and-teal-vintage-tropical-minimalist-wallpaper-mural-Room-820x532.jpg");
+}
+  .form  {
+  background-color:white;
+  display: inline-block;
+  box-sizing: border-box;
+  box-shadow: 1px 1px 5px 4px #BABEBB;
+  border: 0px solid #949999;
+  border-radius: 4px;
+  width: 55%;
+  margin-top: 100px;
+  margin-bottom: 70px;
+  margin-left: 180px;
+       }
+input[type=text],input[type=password]{
+width: 88%;
+padding: 10px 19px;
+margin: 10px ;
+margin-left: 38px;
+border-radius: 6px;
+border: 2px solid;
+color: #CACDCE;
+display: inline-block;
+}
+.button1 {
+background: #518DBF;
+width: 88%;
+padding: 12px 20px;
+padding-top: 8px;
+margin: 10px ;
+cursor: pointer;
+color: white;
+border-radius: 5px;
+margin-bottom: -18px;
+margin-top: 7px;
+margin-left: 38px;
+border-color: #4884B6;
+}
+.button2  {
+	text-align: right;
+	margin-left: 10px;
+	margin-right: 33px;
+	margin-top: 10px;
+	border-radius: 5px;
+	float: right;
+	margin-bottom: 20px;
+	background-color: #EEF0EE;
+	font-weight: bold;
+}
+.acr1 {
+	margin: 0px 15px;
+	float: left;
+	padding: 5px; 
+	margin-top: 1px;
+	margin-bottom: 10px;
+	margin-left: 35px;
+	margin-right: 30px;
+	padding-top: 0px;
+}
+.acr2 {
+	margin: 0px 15px;
+	margin-right: 37px;
+	float: right;
+	padding-top: 0;
+}
+.div1 {
+	padding-top: 10px;
+	padding-left: 10px;
+	
+}
+.container {
+	align:center;
+}
+.span1 {
+	float: right;
+	color: #D4D8D5;
+	margin-top: 18px;
+	font-size: 13px;
+	margin-right: 21px; 
+}
+.h_1 {
+	margin-top: -5px;
+	margin-left: 3px;
+	margin-bottom:15px;
+}
+::placeholder {
+	color: #949595;
+	font-size: 18px;
+	font-style: normal;
+}
+
+.selectbox{
+	width: 48%;
+padding: 10px 19px;
+margin: 10px ;
+margin-left: 38px;
+border-radius: 6px;
+border: 2px solid;
+color: #CACDCE;
+display: inline-block;
+
+}
+
+label{
+	margin-left: 7%;
+}

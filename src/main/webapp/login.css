@@ -1,0 +1,100 @@
+@charset "ISO-8859-1";
+
+  .form  {
+  display: inline-block;
+  box-sizing: border-box;
+  padding: 28px;
+  margin: 100px;
+  width: 50%;
+  background: #E5F9F9;
+  margin-left: 210px;
+  margin-top: 50px;
+       }
+input[type=text],input[type=password]{
+width:90%;
+padding: 4px;
+margin-left: 18px ;
+border-radius: 5px;
+border: 1px solid;
+border-width: 1px 1px 1px 1px;
+display: inline-block;
+border-color: #BEBFBE;
+}
+.button1 {
+background: #1C7ABA;
+width:43%;
+padding: 6px;
+margin-left: 18px ;
+margin-top: 25px;
+cursor: pointer;
+color: white;
+border-radius: 5px;
+float: left;
+}
+.acr1 {
+	margin-left: 35px;
+	margin-top: -13px;
+	float: left;
+	color: #05A3CA;
+	font-size: 13px;
+	font-weight: bold;
+}
+.acr2 {
+    margin-right: 20px;
+	margin-top: -13px;
+	margin-bottom: -5px;
+	float: right;
+	color: #05A3CA;
+	font-size: 13px;
+	font-weight: bold;
+}
+.div1 {
+	margin-top: 68px;
+	border-color: white;
+	margin-bottom: 30px;
+	padding-left: 10x;
+	padding-right: 10px;
+}
+.container {
+	margin-left: 100px;
+	margin-top: 40px;
+}
+.field_set{
+	background-color: #F2F3F3;
+	border-color: #f4f4f4;
+	border:1px solid #ccc;
+	border-radius: 5px;
+	padding-bottom: 15px;
+	margin-left: 80px;
+	margin-right: 80px;
+	width: 67%;
+}
+.h_1 {
+	margin-left: 18px;
+	font-weight: bold;
+}
+.h_4 {
+	margin-left: 18px;
+	color: #838483;
+	font-size: 12px;
+	font-weight: 550;
+}
+.label1 {
+	margin-left: 20px;
+	font-weight: 550;
+	color: #9B9C9C;
+	font-size: 13px;
+}
+.label2 {
+	margin-left: 20px;
+	margin-top: 20px;
+	font-weight: 550;
+	color: #9B9C9C;
+	font-size: 13px;
+}
+.label3 {
+	float: right;
+	margin-right: 29px;
+	margin-top: 25px;
+	margin-bottom: 10px
+}
